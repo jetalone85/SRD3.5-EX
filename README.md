@@ -2,12 +2,12 @@
 
 ## Wstęp
 
-Broń palna dzieli się na dwie zasadnicze kategorie: broń krótką oraz karabiny. Rys historyczny wzorowany jest na okresie 1840-1860 roku, osadzony w rejonach dzikiego zachodu. Jest to broń czarnoprochowa, często we wczesnej fazie produkcji, często modyfikowana przez rusznikarzy.
+Broń palna dzieli się na dwie zasadnicze kategorie: broń krótką oraz długą. Rys historyczny wzorowany jest na okresie 1840-1860 roku, osadzony w rejonach dzikiego zachodu. Jest to broń czarnoprochowa, często we wczesnej fazie produkcji, często modyfikowana przez rusznikarzy.
 
 Korzystanie z broni palnej wiąże się z testami ataku dystansowego (bazującego na zręczności) oraz rzemiosła (rusznikarstwo).
 
 Broń palna traktowana jest jak broń egzotyczna, wymagany jest atut biegłości w tej danym rodzaju broni palnej.
-Po uzyskaniu tego atutu, broń palna traktowana jest jak broń żołnierska.Rozszerzenie obejmuje broń krótką oraz karabiny traktowane jako broń osobistą, używaną przez jednego gracza. Nie zawiera, dla przykładu, wyrzutni rakiet, granatników czy ciężkich karabinów stacjonarnych.
+Po uzyskaniu tego atutu, broń palna traktowana jest jak broń żołnierska. Rozszerzenie obejmuje broń krótką oraz długą traktowane jako broń osobistą, używaną przez jednego gracza. Nie zawiera, dla przykładu, wyrzutni rakiet, granatników czy ciężkich karabinów stacjonarnych.
 
 ## Pojęcia
 
@@ -29,9 +29,9 @@ Analogicznie jak dla przyrostu zasięgu dla innych rodzajów broni.
 
 Ilość naboi w magazynku lub bębnie, po której należy przeładować broń.
 
-### Rozmiar
+### Rozmiar broni
 
-Analogicznie jak dla rozmiaru innych broni. Zasadniczo broń krótka traktowana jest jako broń lekka - używana jest jednorącz, karabiny jako broń długa - wymagane jest użycie oburącz.
+Analogicznie jak dla rozmiaru innych broni. Zasadniczo broń krótka traktowana jest jako broń lekka - używana jest jednorącz, broń długa - wymagane jest użycie oburącz.
 
 ### Waga
 
@@ -54,7 +54,7 @@ Wyróżniamy 2 typy amunicji:
 
 Wynik kości d20 podczas testu trafienia który inicjuje mechanikę zacięcia
 
-## Mechaniki bazow
+## Mechaniki bazowe
 
 Mechaniki testu ataku dystansowego oraz obrażeń pozostają zgodne z podstawą gry. Dla uproszczenia przyjmuje się, że kość krytyczna dla każdego rodzaju broni palnej wynosi 20, a mnożnik obrażeń w przypadku trafienia krytycznego wynosi 3.
 
@@ -70,22 +70,22 @@ Podczas testy ataku dystansowego z użyciem broni palnej, krytyczna porażka (na
 
 ### Uderzenie bronią
   
-Możliwe jest przeprowadzenie ataku rękojeścią broni ręcznej lub kolbą karabinu jako ataku wręcz. W tym przypadku uderzenie takie nie jest traktowane jako broń improwizowana. Uderzenie tego typu zadaje tylko stłuczenia, 1k4 dla broni lekkiej, 1k6 dla broni długiej. Do testów tego ataku nie można stosować atutu finezja. Premia z siły do obrażeń może być brana pod uwagę.
+Możliwe jest przeprowadzenie ataku rękojeścią broni ręcznej lub kolbą karabinu lub strzelby jako ataku wręcz. W tym przypadku uderzenie takie nie jest traktowane jako broń improwizowana. Uderzenie tego typu zadaje tylko stłuczenia, 1k4 dla broni lekkiej, 1k6 dla broni długiej. Do testów tego ataku nie można stosować atutu finezja. Premia z siły do obrażeń może być brana pod uwagę.
 
 ## Tabele
 
 ### Broń
 
-| Nazwa | Obrażenia | Zasięg | Pojemność | Waga | Przeładowanie | Rodzaj amunicji | Zacięcie | Cena |
-| ----- | --------- | ------ | --------- | ---- | ------------- | ---------------- | -------- | -------- |
-| Lekki rewolwer otwarty | 2k6 | 6m | Bęben 5 | 1,5 kg | Całorundowe | Lekka | 5 | 140 sz |
-| Lekki rewolwer zamknięty | 2k6 | 9m | Bęben 6 | 2 kg | Standardowa | Lekka | 4 | 280 sz |
-| Ciężki rewolwer otwarty <sup>1</sup>  | 2k8 | 6m | Bęben 5 | 2 kg | Całorundowe | Ciężka | 5 | 200 sz |
-| Ciężki rewolwer zamknięty <sup>2</sup> | 2k8 | 9m | Bęben 6 | 3 kg | Standardowa| Ciężka | 4 | 400 sz |
-| Karabin powtarzalny | 2k6 | 12m | Kaseta 5 | 4,5 kg | Standardowa | Lekka | 6 | 800 sz |
-| Karabin wyborowy <sup>2</sup> | 2k12 | 30m | Pojedynczy | 7,5 kg | Standardowa | Ciężka | 3 | 1600 sz |
-| Obrzyn <sup>1</sup> | 6k4 | 1,5m | Pojedynczy | 2,5 kg | Standardowa | Śrutowa | 3 | 140 sz |
-| Dubeltówka <sup>1</sup> | 4k6 | 3m | Podwójny | 4,5 kg | Standardowa | Śrutowa | 3 | 400 sz |
+| Nazwa                                  | Obrażenia | Zasięg | Pojemność  | Waga   | Przeładowanie | Rozmiar broni | Rodzaj amunicji | Zacięcie | Cena    |
+| -------------------------------------- | --------- | ------ | ---------- | ------ | ------------- | ------------- | --------------- | -------- | ------- |
+| Lekki rewolwer otwarty                 | 2k6       | 6m     | Bęben 5    | 1,5 kg | Całorundowe   | Którka        | Lekka           | 5        | 140 sz  |
+| Lekki rewolwer zamknięty               | 2k6       | 9m     | Bęben 6    | 2 kg   | Standardowa   | Którka        | Lekka           | 4        | 280 sz  |
+| Ciężki rewolwer otwarty <sup>1</sup>   | 2k8       | 6m     | Bęben 5    | 2 kg   | Całorundowe   | Którka        | Ciężka          | 5        | 200 sz  |
+| Ciężki rewolwer zamknięty <sup>2</sup> | 2k8       | 9m     | Bęben 6    | 3 kg   | Standardowa   | Którka        | Ciężka          | 4        | 400 sz  |
+| Karabin powtarzalny                    | 2k6       | 12m    | Kaseta 5   | 4,5 kg | Standardowa   | Długa         | Lekka           | 6        | 800 sz  |
+| Karabin wyborowy <sup>2</sup>          | 2k12      | 30m    | Pojedynczy | 7,5 kg | Standardowa   | Długa         | Ciężka          | 3        | 1600 sz |
+| Obrzyn <sup>1</sup>                    | 6k4       | 1,5m   | Pojedynczy | 2,5 kg | Standardowa   | Którka        | Śrutowa         | 3        | 140 sz  |
+| Dubeltówka <sup>1</sup>                | 4k6       | 3m     | Podwójny   | 4,5 kg | Standardowa   | Długa         | Śrutowa         | 3        | 400 sz  |
 
 <sup>1</sup> minimalna siła niezbędna do opanowania: S13, w przeciwnym wypadku -6 do testu trafienia, w przypadki porażki w teście, 1k6 stłuczeń zadanych użytkownikowi
 
