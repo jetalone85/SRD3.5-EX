@@ -66,11 +66,19 @@ Dodatkowe mechaniki to:
 
 ### Mechanika zacięcia
   
-Podczas testy ataku dystansowego z użyciem broni palnej, krytyczna porażka (naturalne 1 na kości d20)  lub uzyskanie wyniku zacięcia, oznacza zacięcie broni palnej. Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności: 10 dla broni lekkiej, 12 dla karabinu. Czas trwania naprawy takiej broni to akcja standardowa. Sukces powyżej 5 punktów oznacza odzyskanie amunicji. Porażka w teście rusznikarstwa oznacza zacięcie broni, które można usunąć tylko z użyciem narzędzi. Taka naprawa trwa 10 minut i wymaga testu rusznikarstwa analogicznie 15 dla broni lekkiej, 18 dla karabinu. Zasada pewnej 10 na kości wydłuża czas do 30 minut, pewnej 20 na kości do godziny. Krytyczna porażka w teście usuwania zacięcia broni oznacza jej trwałe zniszczenie. Broń mistrzowska lub magiczna zmniejsza zakres zacięcia o 1, minimalnie 1.
+Podczas testy ataku dystansowego z użyciem broni palnej, krytyczna porażka (naturalne 1 na kości d20) lub uzyskanie wyniku zacięcia, oznacza zacięcie broni palnej. Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności: 10 dla broni lekkiej, 12 dla karabinu. Czas trwania naprawy takiej broni to akcja standardowa. Sukces powyżej 5 punktów oznacza odzyskanie amunicji. Porażka w teście rusznikarstwa oznacza zacięcie broni, które można usunąć tylko z użyciem narzędzi. Taka naprawa trwa 10 minut i wymaga testu rusznikarstwa analogicznie 15 dla broni lekkiej, 18 dla karabinu. Zasada pewnej 10 na kości wydłuża czas do 30 minut, pewnej 20 na kości do godziny. Krytyczna porażka w teście usuwania zacięcia broni oznacza jej trwałe zniszczenie. Broń mistrzowska lub magiczna zmniejsza zakres zacięcia o 1, minimalnie 1.
 
 ### Uderzenie bronią
   
 Możliwe jest przeprowadzenie ataku rękojeścią broni ręcznej lub kolbą karabinu lub strzelby jako ataku wręcz. W tym przypadku uderzenie takie nie jest traktowane jako broń improwizowana. Uderzenie tego typu zadaje tylko stłuczenia, 1k4 dla broni lekkiej, 1k6 dla broni długiej. Do testów tego ataku nie można stosować atutu finezja. Premia z siły do obrażeń może być brana pod uwagę.
+
+### Amunicja mistrzowska
+
+Amunicja mistrzowska zmniejsza szasnę zacięcia broni o 1. Koszt amunicji zwiększony jest o 100sz.
+
+### Wytwarzanie amunicji
+
+Aby wytworzyć amunicję mistrzowską potrzebny jest udany test rusznikarstwa (rzemiosło) o stopniu wyzwania ST15, zestaw naszędzi rusznikarskich oraz składniki, łuski, kule, śruciny i proch, będące wartością połowy kosztu amunicji. Amunicji mistrzowskiej nie można wykonywać poza warsztatem. Tworzenie trwa 10 minut na porcję amunicji.
 
 ## Tabele
 
