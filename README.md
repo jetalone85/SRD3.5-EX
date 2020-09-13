@@ -7,7 +7,7 @@ Broń palna dzieli się na dwie zasadnicze kategorie: broń krótką oraz karabi
 Korzystanie z broni palnej wiąże się z testami ataku dystansowego (bazującego na zręczności) oraz rzemiosła (rusznikarstwo).
 
 Broń palna traktowana jest jak broń egzotyczna, wymagany jest atut biegłości w tej danym rodzaju broni palnej.
-Po uzyskaniu tego atutu, broń palna traktowana jest jak broń żołnierska. Rozszerzenie obejmuje broń krótką oraz karabiny traktowane jako broń osobistą, używaną przez jednego gracza. Nie zawiera, dla przykładu, wyrzutni rakiet, granatników czy ciężkich karabinów stacjonarnych.
+Po uzyskaniu tego atutu, broń palna traktowana jest jak broń żołnierska.Rozszerzenie obejmuje broń krótką oraz karabiny traktowane jako broń osobistą, używaną przez jednego gracza. Nie zawiera, dla przykładu, wyrzutni rakiet, granatników czy ciężkich karabinów stacjonarnych.
 
 ## Pojęcia
 
@@ -45,3 +45,35 @@ Dodatkowe mechaniki to:
 * Uderzenie bronią
   
   Możliwe jest przeprowadzenie ataku rękojeścią broni ręcznej lub kolbą karabinu jako ataku wręcz. W tym przypadku uderzenie takie nie jest traktowane jako broń improwizowana. Uderzenie tego typu zadaje tylko stłuczenia, 1k4 dla broni lekkiej, 1k6 dla broni długiej. Do testów tego ataku nie można stosować atutu finezja. Premia z siły do obrażeń może być brana pod uwagę.
+
+## Tabele
+
+### Broń
+
+| Nazwa | Obrażenia | Zasięg | Pojemność | Waga | Przeładowanie | Rodzaj amunicji | Zacięcie | Cena |
+| ----- | --------- | ------ | --------- | ---- | ------------- | ---------------- | -------- | -------- |
+| Lekki rewolwer otwarty | 2k6 | 6m | Bęben 5 | 1,5 kg | Całorundowe | Lekka | 5 | 140 sz |
+| Lekki rewolwer zamknięty | 2k6 | 9m | Bęben 6 | 2 kg | Standardowa | Lekka | 4 | 280 sz |
+| Ciężki rewolwer otwarty <sup>1</sup>  | 2k8 | 6m | Bęben 5 | 2 kg | Całorundowe | Ciężka | 5 | 200 sz |
+| Ciężki rewolwer zamknięty <sup>2</sup> | 2k8 | 9m | Bęben 6 | 3 kg | Standardowa| Ciężka | 4 | 400 sz |
+| Karabin powtarzalny | 2k6 | 12m | Kaseta 5 | 4,5 kg | Standardowa | Lekka | 6 | 800 sz |
+| Karabin wyborowy ** | 2k12 | 30m | Pojedynczy | 7,5 kg | Standardowa | Ciężka | 3 | 1600 sz |
+| Obrzyn * | 6k4 | 1,5m | Pojedynczy | 2,5 kg | Standardowa | Śrutowa | 3 | 140 sz |
+| Dubeltówka * | 4k6 | 3m | Podwójny | 4,5 kg | Standardowa | Śrutowa | 3 | 400 sz |
+
+<sup>1</sup> minimalna siła niezbędna do opanowania: S13, w przeciwnym wypadku -6 do testu trafienia, w przypadki porażki w teście, 1k6 stłuczeń zadanych użytkownikowi
+
+<sup>2</sup> można stosować tylko z oparciem, np za ukryciem, w przeciwnym wypadku -12 do testu trafienia, w przypadki porażki w teście, 2k6 stłuczeń zadanych użytkownikowi
+
+### Wyposażenie
+
+| Nazwa | Waga | Cena |
+| ----- | ---------------- | -------- |
+| Przyrządy rusznikarskie | 2 kg | 50 sz
+| Mistrzowskie przyrządy rusznikarskie <sup>3</sup> | 2 kg | 150 sz |
+| Pusty magazynek kasetowy | 0,5 kg | 35 sz |
+| Amunicja lekka (20 sztuk) | 0,5 kg | 5 sz |
+| Amunicja ciężka lub karabinowa (20 sztuk) | 1 kg | 10 sz |
+| Amunicja śrutowa (10 sztuk) | 1 kg | 5 sz |
+
+<sup>3</sup> premia +4 do testów rzemiosła rusznikarstwo
