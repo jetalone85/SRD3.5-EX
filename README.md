@@ -93,13 +93,13 @@ Możliwe jest przeprowadzenie ataku rękojeścią broni ręcznej lub kolbą kara
 
 ### Wyposażenie
 
-| Nazwa | Waga | Cena |
-| ----- | ---------------- | -------- |
-| Przyrządy rusznikarskie | 2 kg | 50 sz
-| Mistrzowskie przyrządy rusznikarskie <sup>3</sup> | 2 kg | 150 sz |
-| Pusty magazynek kasetowy | 0,5 kg | 35 sz |
-| Amunicja lekka (20 sztuk) | 0,5 kg | 5 sz |
-| Amunicja ciężka lub karabinowa (20 sztuk) | 1 kg | 10 sz |
-| Amunicja śrutowa (10 sztuk) | 1 kg | 5 sz |
+| Nazwa                                             | Waga   | Cena   |
+| ------------------------------------------------- | ------ | ------ |
+| Przyrządy rusznikarskie                           | 2 kg   | 50 sz  |
+| Mistrzowskie przyrządy rusznikarskie <sup>3</sup> | 2 kg   | 150 sz |
+| Pusty magazynek kasetowy                          | 0,5 kg | 35 sz  |
+| Amunicja lekka (20 sztuk)                         | 0,5 kg | 5 sz   |
+| Amunicja ciężka lub karabinowa (20 sztuk)         | 1 kg   | 10 sz  |
+| Amunicja śrutowa (10 sztuk)                       | 1 kg   | 5 sz   |
 
 <sup>3</sup> premia +4 do testów rzemiosła rusznikarstwo
