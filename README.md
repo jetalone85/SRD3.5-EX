@@ -10,7 +10,7 @@ Jest to broń czarnoprochowa, często we wczesnej fazie produkcji i modyfikowana
 Korzystanie z broni palnej wiąże się z testami ataku dystansowego (bazującego na zręczności) oraz rzemiosła (rusznikarstwo).
 
 Broń palna traktowana jest jako broń egzotyczna, wymagany jest atut biegłości w broni palnej.
-Po uzyskaniu tego atutu, broń palna traktowana jest jak broń żołnierska. Rozszerzenie obejmuje broń krótką oraz długą traktowane jako broń osobistą, używaną przez jednego gracza. Nie zawiera, dla przykładu, wyrzutni rakiet, granatników czy ciężkich karabinów stacjonarnych.
+Po uzyskaniu tego atutu broń palna traktowana jest jak broń żołnierska. Rozszerzenie obejmuje broń krótką oraz długą traktowane jako broń osobistą, używaną przez jednego gracza. Nie zawiera, dla przykładu, wyrzutni rakiet, granatników czy ciężkich karabinów stacjonarnych.
 
 ## Pojęcia
 
@@ -25,7 +25,7 @@ Zakres obrażeń, jakie broń może zadać po trafieniu w cel. Analogicznie jak 
 Zasadniczo typ obrażeń.
 Rozszerzenie wprowadza nowy typ obrażeń: obrażenia balistyczne.
 Jest po połączenie obrażeń kłutych oraz miażdżonych.
-Co do zasady, jeśli trafiona postać posiada odporność na którykolwiek z typów obrażeń, np. kłute, otrzymuje tylko połowę obrażeń (zaokrąglane w dół).
+Co do zasady, jeśli trafiona postać posiada odporność na którykolwiek z typów obrażeń, np. kłute, otrzymuje tylko połowę obrażeń (zaokrąglane w dół).
 Jeśli posiada odporność na oby dwa typy obrażeń, nie otrzymuje ich wcale.
 Analogiczna sytuacja ma się z redukcją określonego typu obrażeń.
 
@@ -37,10 +37,10 @@ Analogicznie jak dla przyrostu zasięgu dla innych rodzajów broni.
 
 Ilość naboi w magazynku lub bębnie, po której należy przeładować broń.
 
-### Rozmiar broni
+### Rozmiar
 
 Analogicznie jak dla rozmiaru innych broni.
-Zasadniczo broń krótka traktowana jest jako broń lekka - używana jest jednorącz, broń długa - wymagane jest użycie oburącz.
+Zasadniczo broń krótka traktowana jest jako broń lekka — używana jest jednorącz, broń długa — wymagane jest użycie oburącz.
 
 ### Waga
 
@@ -50,7 +50,7 @@ Analogicznie jak przy wadze dla innych rodzajów broni.
 
 Czas niezbędny do załadowania do broni nowej porcji amunicji.
 Dla uproszczenia przyjmuje się, że czas niezbędny do doładowania jednej sztuki amunicji jest taki sam, jak dla pełnej pojemności.
-W przypadku broni z magazynkiem kasetowym przeładowanie oznacza wymianę magazynka i przygotowanie do strzału, nie zaś ładowanie magazynka.
+W przypadku broni z magazynkiem kasetowym przeładowanie oznacza wymianę magazynka i przygotowanie do strzału, nie zaś ładowanie magazynka.
 Napełnienie magazynka kasetowego nabojami to akcja zajmująca całą rundę za każde 5 nabojów pojemności.
 
 ### Rodzaj amunicji
@@ -59,16 +59,16 @@ Rozmiar oraz typ amunicji do broni palnej.
 
 Wyróżniamy 2 typy amunicji:
 
-* standardowy nabój ołowiany w łusce mosiężnej - obrażenia podane dla broni przy zastosowaniu tej amunicji są stałe
+* standardowy nabój ołowiany w łusce mosiężnej — obrażenia podane dla broni przy zastosowaniu tej amunicji są stałe
 * pocisk śrutowy zawierający proch zmieszany ze śrucinami, obrażenia zmniejszają się o kość obrażeń wraz z mnożnikiem przyrostu zasięgu
   
 ### Zacięcie
 
-Wynik kości d20 podczas testu trafienia który inicjuje mechanikę zacięcia.
+Wynik kości d20 podczas testu trafienia, który inicjuje mechanikę zacięcia.
 
 ## Mechaniki bazowe
 
-Mechaniki testu ataku dystansowego oraz obrażeń pozostają zgodne z podstawą gry. Dla uproszczenia przyjmuje się, że kość krytyczna dla każdego rodzaju broni palnej wynosi 20, a mnożnik obrażeń w przypadku trafienia krytycznego wynosi 3.
+Mechaniki testu ataku dystansowego oraz obrażeń pozostają zgodne z podstawą gry. Dla uproszczenia przyjmuje się, że kość krytyczna dla każdego rodzaju broni palnej wynosi 20, a mnożnik obrażeń w przypadku trafienia krytycznego wynosi 3.
 
 Mechaniki związane z przyśpieszeniem czasu niezbędnego do przeładowania broni działają analogicznie jak dla kuszy lekkiej i ciężkiej.
 
@@ -78,31 +78,31 @@ Dodatkowe mechaniki to:
 
 ### Mechanika zacięcia
   
-Podczas testy ataku dystansowego z użyciem broni palnej, krytyczna porażka (naturalne 1 na kości d20) lub uzyskanie wyniku zacięcia, oznacza zacięcie broni palnej.
+Podczas testu ataku dystansowego z użyciem broni palnej, krytyczna porażka (naturalne 1 na kości d20) lub uzyskanie wyniku zacięcia, oznacza zacięcie broni palnej.
 Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności: 10 dla broni lekkiej, 12 dla karabinów i broni śrutowej.
 Czas trwania naprawy takiej broni to akcja standardowa.
-Sukces powyżej 5 punktów oznacza odzyskanie amunicji.
+Sukces powyżej 5 punktów oznacza odzyskanie amunicji.
 Porażka w teście rusznikarstwa oznacza zacięcie broni, które można usunąć tylko z użyciem narzędzi.
 Taka naprawa trwa 10 minut i wymaga testu rusznikarstwa o stopniu trudności 15 dla broni lekkiej, 18 dla karabinu.
 Zasada pewnej 10 na kości wydłuża czas do 30 minut, pewnej 20 na kości do godziny.
 Krytyczna porażka w teście usuwania zacięcia broni oznacza jej trwałe zniszczenie.
-Broń mistrzowska lub magiczna zmniejsza zakres zacięcia o 1, minimalnie 1.
+Broń mistrzowska lub magiczna zmniejsza zakres zacięcia o 1, minimalnie 1.
 
 ### Uderzenie bronią
   
-Możliwe jest przeprowadzenie ataku rękojeścią broni ręcznej lub kolbą karabinu lub strzelby jako ataku wręcz.
+Możliwe jest przeprowadzenie ataku rękojeścią broni ręcznej, kolbą karabinu lub strzelby jako ataku wręcz.
 W tym przypadku uderzenie takie nie jest traktowane jako broń improwizowana.
 Uderzenie tego typu zadaje tylko stłuczenia, 1k4 dla broni lekkiej, 1k6 dla broni długiej.
 Do testów tego ataku nie można stosować atutu finezja.
-Premia z siły do obrażeń może być brana pod uwagę.
+Premia z siły do obrażeń może być brana pod uwagę.
 
 ### Amunicja mistrzowska
 
-Amunicja mistrzowska zmniejsza szasnę zacięcia broni o 1. Koszt amunicji zwiększony jest o 100sz.
+Amunicja mistrzowska zmniejsza szansę zacięcia broni o 1. Koszt amunicji zwiększony jest o 100sz.
 
 ### Wytwarzanie amunicji
 
-Aby wytworzyć amunicję mistrzowską potrzebny jest udany test rusznikarstwa (rzemiosło) o stopniu wyzwania ST15, zestaw naszędzi rusznikarskich oraz składniki, łuski, kule, śruciny i proch, będące wartością połowy kosztu amunicji.
+Aby wytworzyć amunicję mistrzowską potrzebny jest udany test rusznikarstwa (rzemiosło) o stopniu wyzwania ST15, zestaw naszędzi rusznikarskich oraz składniki, łuski, kule, śruciny i proch, będące wartością połowy kosztu amunicji.
 Amunicji mistrzowskiej nie można wykonywać poza warsztatem.
 Tworzenie trwa 10 minut na porcję amunicji.
 
@@ -134,7 +134,7 @@ Tworzenie trwa 10 minut na porcję amunicji.
 | Mistrzowskie przyrządy rusznikarskie <sup>4</sup> | 2 kg   | 150 sz |
 | Pusty magazynek kasetowy                          | 0,5 kg | 35 sz  |
 | Amunicja lekka (20 sztuk)                         | 0,5 kg | 5 sz   |
-| Amunicja ciężka lub karabinowa (20 sztuk)         | 1 kg   | 10 sz  |
+| Amunicja ciężka lub karabinowa (20 sztuk)         | 1 kg   | 10 sz  |
 | Amunicja śrutowa (10 sztuk)                       | 1 kg   | 5 sz   |
 
 <sup>3</sup> premia +2 do testów rzemiosła rusznikarstwo
