@@ -61,8 +61,8 @@ Rozmiar oraz typ amunicji do broni palnej.
 
 Wyróżniamy 2 typy amunicji:
 
-* standardowy nabój ołowiany w łusce mosiężnej — obrażenia podane dla broni przy zastosowaniu tej amunicji są stałe
-* pocisk śrutowy zawierający proch zmieszany ze śrucinami, obrażenia zmniejszają się o kość obrażeń wraz z mnożnikiem przyrostu zasięgu
+* standardowy nabój ołowiany w łusce mosiężnej — obrażenia podane dla broni przy zastosowaniu tej amunicji są stałe;
+* pocisk śrutowy zawierający proch zmieszany ze śrucinami, obrażenia zmniejszają się o kość obrażeń wraz z mnożnikiem przyrostu zasięgu;
   
 ### Zacięcie
 
@@ -84,9 +84,9 @@ Dodatkowe mechaniki to:
 Podczas testu ataku dystansowego z użyciem broni palnej, krytyczna porażka (naturalne 1 na kości d20) lub uzyskanie wyniku zacięcia, oznacza zacięcie broni palnej.
 Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności: 
 
-* 10 dla broni lekkiej
-* 12 dla karabinów
-* 12 dla broni śrutowej.
+* 10 dla broni lekkiej;
+* 12 dla karabinów;
+* 12 dla broni śrutowej;
 
 Czas trwania naprawy takiej broni to akcja standardowa.
 Sukces powyżej 5 punktów oznacza odzyskanie amunicji.
@@ -97,7 +97,7 @@ Zasada pewnej 10 na kości wydłuża czas do 30 minut, pewnej 20 na kości do go
 Krytyczna porażka w teście usuwania zacięcia broni oznacza jej trwałe zniszczenie.
 Broń mistrzowska lub magiczna zmniejsza zakres zacięcia o 1, minimalnie 1.
 
-### Uderzenie bronią
+### Uderzenie bronią palną
   
 Możliwe jest przeprowadzenie ataku rękojeścią broni ręcznej, kolbą karabinu lub strzelby jako ataku wręcz.
 W tym przypadku uderzenie takie nie jest traktowane jako broń improwizowana.
@@ -111,13 +111,13 @@ Amunicja mistrzowska zmniejsza szansę zacięcia broni o 1. Koszt amunicji zwię
 
 ### Wytwarzanie amunicji
 
-Aby wytworzyć amunicję mistrzowską potrzebny jest udany test rusznikarstwa (rzemiosło) o stopniu wyzwania ST15, zestaw naszędzi rusznikarskich oraz składniki, łuski, kule, śruciny i proch, będące wartością połowy kosztu amunicji.
+Aby wytworzyć amunicję mistrzowską potrzebny jest udany test rusznikarstwa (rzemiosło) o stopniu wyzwania ST15, zestaw narzędzi rusznikarskich oraz składniki, łuski, kule, śruciny i proch, będące wartością połowy kosztu amunicji.
 Amunicji mistrzowskiej nie można wykonywać poza warsztatem.
 Tworzenie trwa 10 minut na porcję amunicji.
 
 ## Tabele
 
-### Broń
+### Broń palna
 
 | Nazwa                                  | Obrażenia | Zasięg | Pojemność  | Waga   | Przeładowanie | Rozmiar broni | Rodzaj amunicji | Zacięcie | Cena    |
 | -------------------------------------- | --------- | ------ | ---------- | ------ | ------------- | ------------- | --------------- | -------- | ------- |
