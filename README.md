@@ -82,10 +82,16 @@ Dodatkowe mechaniki to:
 ### Mechanika zacięcia
   
 Podczas testu ataku dystansowego z użyciem broni palnej, krytyczna porażka (naturalne 1 na kości d20) lub uzyskanie wyniku zacięcia, oznacza zacięcie broni palnej.
-Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności: 10 dla broni lekkiej, 12 dla karabinów i broni śrutowej.
+Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności: 
+
+* 10 dla broni lekkiej
+* 12 dla karabinów
+* 12 dla broni śrutowej.
+
 Czas trwania naprawy takiej broni to akcja standardowa.
 Sukces powyżej 5 punktów oznacza odzyskanie amunicji.
 Porażka w teście rusznikarstwa oznacza zacięcie broni, które można usunąć tylko z użyciem narzędzi.
+
 Taka naprawa trwa 10 minut i wymaga testu rusznikarstwa o stopniu trudności 15 dla broni lekkiej, 18 dla karabinu.
 Zasada pewnej 10 na kości wydłuża czas do 30 minut, pewnej 20 na kości do godziny.
 Krytyczna porażka w teście usuwania zacięcia broni oznacza jej trwałe zniszczenie.
