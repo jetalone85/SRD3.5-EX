@@ -10,7 +10,9 @@ Jest to broń czarnoprochowa, często we wczesnej fazie produkcji i modyfikowana
 Korzystanie z broni palnej wiąże się z testami ataku dystansowego (bazującego na zręczności) oraz rzemiosła (rusznikarstwo).
 
 Broń palna traktowana jest jako broń egzotyczna, wymagany jest atut biegłości w broni palnej.
-Po uzyskaniu tego atutu broń palna traktowana jest jak broń żołnierska. Rozszerzenie obejmuje broń krótką oraz długą traktowane jako broń osobistą, używaną przez jednego gracza. Nie zawiera, dla przykładu, wyrzutni rakiet, granatników czy ciężkich karabinów stacjonarnych.
+Po uzyskaniu tego atutu broń palna traktowana jest jak broń żołnierska.
+Rozszerzenie obejmuje broń krótką oraz długą traktowane jako broń osobistą, używaną przez jednego gracza.
+Nie zawiera, dla przykładu, wyrzutni rakiet, granatników czy ciężkich karabinów stacjonarnych.
 
 ## Pojęcia
 
@@ -68,7 +70,8 @@ Wynik kości d20 podczas testu trafienia, który inicjuje mechanikę zacięcia.
 
 ## Mechaniki bazowe
 
-Mechaniki testu ataku dystansowego oraz obrażeń pozostają zgodne z podstawą gry. Dla uproszczenia przyjmuje się, że kość krytyczna dla każdego rodzaju broni palnej wynosi 20, a mnożnik obrażeń w przypadku trafienia krytycznego wynosi 3.
+Mechaniki testu ataku dystansowego oraz obrażeń pozostają zgodne z podstawą gry.
+Dla uproszczenia przyjmuje się, że kość krytyczna dla każdego rodzaju broni palnej wynosi 20, a mnożnik obrażeń w przypadku trafienia krytycznego wynosi 3.
 
 Mechaniki związane z przyśpieszeniem czasu niezbędnego do przeładowania broni działają analogicznie jak dla kuszy lekkiej i ciężkiej.
 
@@ -122,9 +125,9 @@ Tworzenie trwa 10 minut na porcję amunicji.
 | Obrzyn <sup>1</sup>                    | 3k8       | 1,5m   | Podwójny   | 2,5 kg | Całorundowe   | Krótka        | Śrutowa         | 2        | 140 sz  |
 | Dubeltówka <sup>1</sup>                | 3k8       | 3m     | Podwójny   | 4,5 kg | Całorundowe   | Długa         | Śrutowa         | 2        | 420 sz  |
 
-<sup>1</sup> minimalna siła niezbędna do opanowania: S13, w przeciwnym wypadku -6 do testu trafienia, w przypadki porażki w teście, 1k6 stłuczeń zadanych użytkownikowi
+<sup>1</sup> minimalna siła niezbędna do opanowania: S13, w przeciwnym wypadku -6 do testu trafienia, w przypadki porażki w teście, 1k6 stłuczeń zadanych użytkownikowi.
 
-<sup>2</sup> można stosować tylko z oparciem, np za ukryciem, w przeciwnym wypadku -12 do testu trafienia, w przypadki porażki w teście, 2k6 stłuczeń zadanych użytkownikowi
+<sup>2</sup> można stosować tylko z oparciem, np. za ukryciem, w przeciwnym wypadku -12 do testu trafienia, w przypadki porażki w teście, 2k6 stłuczeń zadanych użytkownikowi.
 
 ### Wyposażenie
 
@@ -137,6 +140,6 @@ Tworzenie trwa 10 minut na porcję amunicji.
 | Amunicja ciężka lub karabinowa (20 sztuk)         | 1 kg   | 10 sz  |
 | Amunicja śrutowa (10 sztuk)                       | 1 kg   | 5 sz   |
 
-<sup>3</sup> premia +2 do testów rzemiosła rusznikarstwo
+<sup>3</sup> premia +2 do testów rzemiosła rusznikarstwo.
 
-<sup>4</sup> premia +5 do testów rzemiosła rusznikarstwo
+<sup>4</sup> premia +5 do testów rzemiosła rusznikarstwo.
