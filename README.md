@@ -1,4 +1,4 @@
-# Czarnoprochowa broń palna dla System Reference Document (SRD)
+# Czarnoprochowa broń palna dla System Reference Document 3.5 (SRD)
 
 ## Wstęp
 
