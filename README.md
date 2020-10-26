@@ -82,7 +82,7 @@ Dodatkowe mechaniki to:
 ### Mechanika zacięcia
   
 Podczas testu ataku dystansowego z użyciem broni palnej, krytyczna porażka (naturalne 1 na kości d20) lub uzyskanie wyniku zacięcia, oznacza zacięcie broni palnej.
-Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności:
+Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności: 
 
 * 10 dla broni lekkiej;
 * 12 dla karabinów;
