@@ -1,8 +1,8 @@
 # Rozszerzenia dla System Reference Document 3.5 (SRD)
 
-# Czarnoprochowa broń palna
+## Czarnoprochowa broń palna
 
-## Wstęp
+### Wstęp
 
 Broń palna dzieli się na dwie kategorie: broń krótką oraz długą.
 Rys historyczny wzorowany jest na okresie 1840-1860 roku, osadzony w realiach dzikiego zachodu.
@@ -16,15 +16,15 @@ Po uzyskaniu tego atutu broń palna traktowana jest jak broń żołnierska.
 Rozszerzenie obejmuje broń krótką oraz długą traktowane jako broń osobistą, używaną przez jednego gracza.
 Nie zawiera, dla przykładu, wyrzutni rakiet, granatników czy ciężkich karabinów stacjonarnych.
 
-## Pojęcia
+### Pojęcia
 
 Używane pojęcia:
 
-### Obrażenia
+#### Obrażenia
 
 Zakres obrażeń, jakie broń może zadać po trafieniu w cel. Analogicznie jak przy obrażeniach dla innych rodzajów broni.
 
-### Rodzaj obrażeń
+#### Rodzaj obrażeń
 
 Zasadniczo typ obrażeń.
 Rozszerzenie wprowadza nowy typ obrażeń: obrażenia balistyczne.
@@ -33,31 +33,31 @@ Co do zasady, jeśli trafiona postać posiada odporność na którykolwiek z typ
 Jeśli posiada odporność na oby dwa typy obrażeń, nie otrzymuje ich wcale.
 Analogiczna sytuacja ma się z redukcją określonego typu obrażeń.
 
-### Przyrost zasięgu
+#### Przyrost zasięgu
 
 Analogicznie jak dla przyrostu zasięgu dla innych rodzajów broni.
 
-### Pojemność
+#### Pojemność
 
 Ilość naboi w magazynku lub bębnie, po której należy przeładować broń.
 
-### Rozmiar
+#### Rozmiar
 
 Analogicznie jak dla rozmiaru innych broni.
 Zasadniczo broń krótka traktowana jest jako broń lekka — używana jest jednorącz, broń długa — wymagane jest użycie oburącz.
 
-### Waga
+#### Waga
 
 Analogicznie jak przy wadze dla innych rodzajów broni.
 
-### Przeładowanie
+#### Przeładowanie
 
 Czas niezbędny do załadowania do broni nowej porcji amunicji.
 Dla uproszczenia przyjmuje się, że czas niezbędny do doładowania jednej sztuki amunicji jest taki sam, jak dla pełnej pojemności.
 W przypadku broni z magazynkiem kasetowym przeładowanie oznacza wymianę magazynka i przygotowanie do strzału, nie zaś ładowanie magazynka.
 Napełnienie magazynka kasetowego nabojami to akcja zajmująca całą rundę za każde 5 nabojów pojemności.
 
-### Rodzaj amunicji
+#### Rodzaj amunicji
 
 Rozmiar oraz typ amunicji do broni palnej.
 
@@ -66,25 +66,25 @@ Wyróżniamy 2 typy amunicji:
 * standardowy nabój ołowiany w łusce mosiężnej — obrażenia podane dla broni przy zastosowaniu tej amunicji są stałe;
 * pocisk śrutowy zawierający proch zmieszany ze śrucinami, obrażenia zmniejszają się o kość obrażeń wraz z mnożnikiem przyrostu zasięgu;
   
-### Zacięcie
+#### Zacięcie
 
 Wynik kości d20 podczas testu trafienia, który inicjuje mechanikę zacięcia.
 
-## Mechaniki bazowe
+### Mechaniki bazowe
 
 Mechaniki testu ataku dystansowego oraz obrażeń pozostają zgodne z podstawą gry.
 Dla uproszczenia przyjmuje się, że kość krytyczna dla każdego rodzaju broni palnej wynosi 20, a mnożnik obrażeń w przypadku trafienia krytycznego wynosi 3.
 
 Mechaniki związane z przyśpieszeniem czasu niezbędnego do przeładowania broni działają analogicznie jak dla kuszy lekkiej i ciężkiej.
 
-## Rozszerzone mechaniki
+### Rozszerzone mechaniki
 
 Dodatkowe mechaniki to:
 
-### Mechanika zacięcia
+#### Mechanika zacięcia
   
 Podczas testu ataku dystansowego z użyciem broni palnej, krytyczna porażka (naturalne 1 na kości d20) lub uzyskanie wyniku zacięcia, oznacza zacięcie broni palnej.
-Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności: 
+Aby usunąć zacięcie należy wykonać udany test rusznikarstwa o określonym stopniu trudności:
 
 * 10 dla broni lekkiej;
 * 12 dla karabinów;
@@ -99,7 +99,7 @@ Zasada pewnej 10 na kości wydłuża czas do 30 minut, pewnej 20 na kości do go
 Krytyczna porażka w teście usuwania zacięcia broni oznacza jej trwałe zniszczenie.
 Broń mistrzowska lub magiczna zmniejsza zakres zacięcia o 1, minimalnie 1.
 
-### Uderzenie bronią palną
+#### Uderzenie bronią palną
   
 Możliwe jest przeprowadzenie ataku rękojeścią broni ręcznej, kolbą karabinu lub strzelby jako ataku wręcz.
 W tym przypadku uderzenie takie nie jest traktowane jako broń improwizowana.
@@ -107,19 +107,19 @@ Uderzenie tego typu zadaje tylko stłuczenia, 1k4 dla broni lekkiej, 1k6 dla bro
 Do testów tego ataku nie można stosować atutu finezja.
 Premia z siły do obrażeń może być brana pod uwagę.
 
-### Amunicja mistrzowska
+#### Amunicja mistrzowska
 
 Amunicja mistrzowska zmniejsza szansę zacięcia broni o 1. Koszt amunicji zwiększony jest o 100sz.
 
-### Wytwarzanie amunicji
+#### Wytwarzanie amunicji
 
 Aby wytworzyć amunicję mistrzowską potrzebny jest udany test rusznikarstwa (rzemiosło) o stopniu wyzwania ST15, zestaw narzędzi rusznikarskich oraz składniki, łuski, kule, śruciny i proch, będące wartością połowy kosztu amunicji.
 Amunicji mistrzowskiej nie można wykonywać poza warsztatem.
 Tworzenie trwa 10 minut na porcję amunicji.
 
-## Tabele
+### Tabele
 
-### Broń palna
+#### Broń palna
 
 | Nazwa                                  | Obrażenia | Zasięg | Pojemność  | Waga   | Przeładowanie | Rozmiar broni | Rodzaj amunicji | Zacięcie | Cena    |
 | -------------------------------------- | --------- | ------ | ---------- | ------ | ------------- | ------------- | --------------- | -------- | ------- |
@@ -137,7 +137,7 @@ Tworzenie trwa 10 minut na porcję amunicji.
 
 <sup>2</sup> można stosować tylko z oparciem, np. za ukryciem, w przeciwnym wypadku -12 do testu trafienia, w przypadki porażki w teście, 2k6 stłuczeń zadanych użytkownikowi.
 
-### Wyposażenie
+#### Wyposażenie
 
 | Nazwa                                             | Waga   | Cena   |
 | ------------------------------------------------- | ------ | ------ |
