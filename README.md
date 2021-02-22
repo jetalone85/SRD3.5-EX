@@ -1,4 +1,6 @@
-# Czarnoprochowa broń palna dla System Reference Document 3.5 (SRD)
+# Rozszerzenia dla System Reference Document 3.5 (SRD)
+
+# Czarnoprochowa broń palna
 
 ## Wstęp
 
